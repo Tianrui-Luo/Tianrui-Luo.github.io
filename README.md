@@ -17,3 +17,17 @@ Updated Github Repo homepage
 Commit history of index.html file
 
 ![alt text](2.3.PNG)
+
+* Activity 3
+
+Updated personal webpage with preferred color screenshot
+
+![alt text](3.1.PNG)
+
+Updated Github Repo homepage
+
+![alt text](3.2.PNG)
+
+Commit history of style.css file
+
+![alt text](3.3.PNG)
