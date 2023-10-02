@@ -38,6 +38,10 @@ Updated personal webpage with "Places travelled" panel screenshot
 
 ![alt text](4.1.PNG)
 
+Updated Github Repo homepage(The repo homepage looks the same to the repo in activity 3, since I found a glitch on activity 3 after I've done activity 4. I forgot to take a screenshot at the time of finishing activity 4, and this is the screenshot after I fixed the glitch in activity 3.)
+
+![alt text](3.2.PNG)
+
 Commit history of index.html file
 
 ![alt text](4.2.PNG)
