@@ -31,3 +31,13 @@ Updated Github Repo homepage
 Commit history of style.css file
 
 ![alt text](3.3.PNG)
+
+* Activity 4
+
+Updated personal webpage with "Places travelled" panel screenshot
+
+![alt text](4.1.PNG)
+
+Commit history of index.html file
+
+![alt text](4.2.PNG)
